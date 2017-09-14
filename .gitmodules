@@ -1,0 +1,3 @@
+[submodule "tedxumn.github.io"]
+	path = tedxumn.github.io
+	url = git@github.com:TEDxUMN/tedxumn.github.io.git
